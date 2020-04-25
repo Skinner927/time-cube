@@ -1,0 +1,3 @@
+[submodule "lib/esp32-wifi-manager"]
+	path = lib/esp32-wifi-manager
+	url = git@github.com:Skinner927/esp32-wifi-manager.git
